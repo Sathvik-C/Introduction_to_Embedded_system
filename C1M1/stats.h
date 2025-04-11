@@ -13,8 +13,8 @@
  *   and general practice in the "C" language
  *
  *
- * @author Joshua Illes
- * @date 2021-02-09
+ * @author Sathvi C
+ * @date 2025-04-11
  *
  */
 #ifndef __STATS_H__
