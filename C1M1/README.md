@@ -1,6 +1,7 @@
 # Week1
-**Author**-*Josh Illes*
-**Date**-*2021-02-10*
+**Author** **Modified by: Sathvik C**
+
+**Date**-*2025-04-11*
 
 The point of this code is to be a refresher on the C language.  It has an array of data and will perform various statistical analysis on the data array.
     * Min
@@ -26,3 +27,4 @@ If you want to compile **and** run in one line, issue the following command:
 ```bash
 make run
 ```
+
